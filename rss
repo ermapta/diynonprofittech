@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title><![CDATA[DIY Nonprofit Tech]]></title><description><![CDATA[Snappy slogan here.]]></description><link>https://gatsby.ghost.org/</link><image><url>https://gatsby.ghost.org/favicon.png</url><title>DIY Nonprofit Tech</title><link>https://gatsby.ghost.org/</link></image><generator>Ghost 2.9</generator><lastBuildDate>Sun, 14 Jul 2019 19:44:09 GMT</lastBuildDate><atom:link href="https://gatsby.ghost.org/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[The origin story]]></title><description><![CDATA[This site exists to help nonprofit organizations to acquire and successfully use
+free or cheap technology options. It was born out of frustration: it was really
+challenging to get set up and functional.]]></description><link>http://localhost:2369/the-origin-story/</link><guid isPermaLink="false">Ghost__Post__5d2a8a98e6d52d3300a19c3d</guid><dc:creator><![CDATA[Mark Stafford]]></dc:creator><pubDate>Sun, 14 Jul 2019 01:51:31 GMT</pubDate><media:content url="https://images.unsplash.com/photo-1549937916-53cd210be58c?ixlib=rb-1.2.1&amp;q=80&amp;fm=jpg&amp;crop=focalpoint&amp;cs=tinysrgb&amp;fit=crop&amp;ixid=eyJhcHBfaWQiOjExNzczfQ&amp;w=1080&amp;h=450" medium="image"/><content:encoded><![CDATA[<img src="https://images.unsplash.com/photo-1549937916-53cd210be58c?ixlib=rb-1.2.1&q=80&fm=jpg&crop=focalpoint&cs=tinysrgb&fit=crop&ixid=eyJhcHBfaWQiOjExNzczfQ&w=1080&h=450" alt="The origin story"/><p>This site exists to help nonprofit organizations to acquire and successfully use free or cheap technology options. It was born out of frustration: it was really challenging to get set up and functional.</p>]]></content:encoded></item><item><title><![CDATA[Start here]]></title><description><![CDATA[Every nonprofit organization wants a great website, personalized email
+addresses, and software to run the organization - and they want it all for free
+or cheap.
+
+> This guide will help you, dear nonprofit, to find and configure amazing
+solutions for almost $0.
+Where we are headed
+Nonprofits need amazing technology solutions, but generally nonprofits are not
+known for their large budgets or deep technical expertise. Across the board,
+nonprofits share two huge common needs:
+
+ 1. Technology infrast]]></description><link>http://localhost:2369/start-here/</link><guid isPermaLink="false">Ghost__Post__5d2a754de6d52d3300a19c20</guid><category><![CDATA[guide]]></category><dc:creator><![CDATA[Mark Stafford]]></dc:creator><pubDate>Sun, 14 Jul 2019 00:21:12 GMT</pubDate><media:content url="https://images.unsplash.com/photo-1532594722383-b75fb8381b55?ixlib=rb-1.2.1&amp;q=80&amp;fm=jpg&amp;crop=top&amp;cs=tinysrgb&amp;fit=crop&amp;ixid=eyJhcHBfaWQiOjF9&amp;w=1080&amp;h=450&amp;fp-y=.22" medium="image"/><content:encoded><![CDATA[<img src="https://images.unsplash.com/photo-1532594722383-b75fb8381b55?ixlib=rb-1.2.1&q=80&fm=jpg&crop=top&cs=tinysrgb&fit=crop&ixid=eyJhcHBfaWQiOjF9&w=1080&h=450&fp-y=.22" alt="Start here"/><p>Every nonprofit organization wants a great website, personalized email addresses, and software to run the organization - and they want it all for free or cheap.</p><blockquote>This guide will help you, dear nonprofit, to find and configure amazing solutions for almost $0.</blockquote><h2 id="where-we-are-headed">Where we are headed</h2><p>Nonprofits need amazing technology solutions, but generally nonprofits are not known for their large budgets or deep technical expertise. Across the board, nonprofits share two huge common needs:</p><ol><li>Technology infrastructure. By infrastructure we mean all the software that helps the nonprofit meet their own needs on a day-to-day basis. This includes authentication of users, productivity solutions, and more.</li><li>Public communication. Every nonprofit needs a website, fundraising campaigns, events, volunteer management, and more. In contrast to infrastructure (which is typically invisible to or inaccessible by the public), public communications are by design available to everyone.</li></ol><p>At the end of this journey, we want to arrive at a destination that satisfies the following criteria, all at a minimal cost. Assume the obvious: yournonprofit.org should be a relevant name. E.G., ours is ermapta.org.</p><!--kg-card-begin: markdown--><ul>
+<li>E-mail
+<ul>
+<li>Nonprofit staff have <a href="#">@yournonprofit.org</a> email addresses.</li>
+<li>Shared email addresses, e.g. <a href="#">giving@yournonprofit.org</a>, can be created.</li>
+</ul>
+</li>
+<li>Website
+<ul>
+<li>Hosted at <a href="#">www.yournonprofit.org</a> and <a href="#">yournonprofit.org</a></li>
+<li>Secured by SSL.</li>
+<li/>
+</ul>
+</li>
+</ul>
+<!--kg-card-end: markdown--><h2 id="disclaimers">Disclaimers</h2><p>A few disclaimers before we get started:</p><ul><li>The author of most of this content (<a href="https://www.linkedin.com/in/markdstafford/">Mark Stafford</a>) works for <a href="https://www.microsoft.com/">Microsoft</a>. </li><li>Mark was a volunteer for the <a href="https://www.ermapta.org/">Eagle Rock Multi-Age PTA</a> when most of the content was written.</li><li>The content orients around solutions the ERMA PTA chose to implement. There are many other great nonprofit tech solutions available, but they aren't documented here.</li><li>Setup is constantly evolving. These guides may get out of date. If they do, please e-mail <a href="mailto:markstafford@ermapta.org">markstafford@ermapta.org</a>.</li></ul><h2 id="an-overview-of-our-journey">An overview of our journey</h2>]]></content:encoded></item></channel></rss>
